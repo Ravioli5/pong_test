@@ -1,1 +1,1 @@
-making a pong game with multiple languages and seeing what difference the language rl makes on the code!
+making a pong game with multiple languages and seeing what difference the language rl makes on the code! the first one with python was slightly changed with ai to give a bit of a head start for me but that should be it.
