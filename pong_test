@@ -2,7 +2,7 @@ import turtle
 
 # Set up the window
 win = turtle.Screen()
-win.title("Pong by ChatGPT")
+win.title("Pong by ChatGPT("meant for testing") and edited by ravioli")
 win.bgcolor("black")
 win.setup(width=800, height=600)
 win.tracer(0)
